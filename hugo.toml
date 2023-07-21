@@ -2,8 +2,6 @@ baseURL = 'profem-030.github.io'
 languageCode = 'de-de'
 title = 'Profem 030 - Reprosupport Guides'
 theme = 'hugo-book'
-publishDir = "docs"
-port = 1312
 
 
 [params]
